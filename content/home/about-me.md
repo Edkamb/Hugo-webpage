@@ -2,6 +2,7 @@
 widget: about
 widget_id: About Me
 headless: true
+author: eduard-kamburjan
 weight: 10
 active: true
 design:
