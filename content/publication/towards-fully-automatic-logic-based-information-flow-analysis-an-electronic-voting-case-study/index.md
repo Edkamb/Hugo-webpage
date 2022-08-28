@@ -8,11 +8,12 @@ authors:
   - Eduard Kamburjan
   - Nathan Wasser
 doi: 10.1007/978-3-662-49635-0_6
-publication_short: POST
+publication: POST
+publication_short: ""
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-08-28T22:25:43.059Z
