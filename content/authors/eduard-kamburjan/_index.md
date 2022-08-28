@@ -21,6 +21,6 @@ social:
 organizations:
   - name: University of Oslo
     url: https://www.uio.no
-superuser: false
+superuser: true
 ---
 ...
